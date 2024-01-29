@@ -1,6 +1,8 @@
 <div align="center" width="50">
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br> 
+
+![212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4](https://github.com/seednee-ruoj/seednee-ruoj/assets/157590037/59f787e8-3f8e-4e47-ab2d-9ab2051837a2)
+
   
 <p><strong> Chillin'.
 <br><br> Vibing to : 🎧  </strong></p>
@@ -8,7 +10,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=313bhcocek6z4mr7pzxgt22ao6fq&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=313bhcocek6z4mr7pzxgt22ao6fq&redirect=true)
 
 </div>
-
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sydney+Ruoj+I.+Ponsica!;" />
