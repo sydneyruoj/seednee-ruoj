@@ -1,5 +1,21 @@
-# 💫 About Me:
-Hi👋I am Sydney Ruoj I. Ponsica😉<br>A Mechatronics Engineering Student🫶<br><br>🌱I am currently learning Robotics.<br>No fun facts about me 'cause my life is boring.
+
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sydney+Ruoj+I.+Ponsica!;" />
+</h1>
+
+<h3 align="center">A Mechatronics Engineering student. </h3>
+
+<br/>
+
+<div align="left">
+ 
+ 🌱 I’m currently learning **Robotics**
+
+💬 Ask me about **life...**
+
+⚡ Fun fact **None. 'Cause I'm boring.**
+
+ </div>
 
 
 ## 🌐 Socials:
@@ -24,4 +40,7 @@ Hi👋I am Sydney Ruoj I. Ponsica😉<br>A Mechatronics Engineering Student🫶<
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-![snake gif](https://github.com/seednee-ruoj/seednee-ruoj/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  <h2>🐍 Just for Show 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
