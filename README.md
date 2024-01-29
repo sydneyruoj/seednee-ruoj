@@ -22,3 +22,6 @@ Hi👋I am Sydney Ruoj I. Ponsica😉<br>A Mechatronics Engineering Student🫶<
 [![](https://visitcount.itsvg.in/api?id=seednee-ruoj&icon=7&color=5)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![snake gif](https://github.com/seednee-ruoj/seednee-ruoj/blob/output/github-contribution-grid-snake.svg)
