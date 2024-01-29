@@ -1,26 +1,24 @@
-<h1 align="center">Hi 👋, I'm Sydney Ruoj I. Ponsica</h1>
-<h3 align="center">A Mechatronics Engineering Student</h3>
+# 💫 About Me:
+Hi👋I am Sydney Ruoj I. Ponsica😉<br>A Mechatronics Engineering Student🫶<br><br>🌱I am currently learning Robotics.<br>No fun facts about me 'cause my life is boring.
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seednee-ruoj&label=Profile%20views&color=0e75b6&style=flat" alt="seednee-ruoj" /> </p>
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/seedkneeroj) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/seedkneeroj/) 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=seednee-ruoj" alt="seednee-ruoj" /></a> </p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=seednee-ruoj&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=seednee-ruoj&theme=synthwave&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=seednee-ruoj&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **Robbotics and coding**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 📫 How to reach me **sydneyponsica@gmail.com**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=seednee-ruoj&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-- ⚡ Fun fact **I enjoy reading ;)**
+---
+[![](https://visitcount.itsvg.in/api?id=seednee-ruoj&icon=7&color=5)](https://visitcount.itsvg.in)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/https://www.facebook.com/seedkneeroj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/seedkneeroj" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/seedkneeroj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/seedkneeroj/" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seednee-ruoj&show_icons=true&locale=en&layout=compact" alt="seednee-ruoj" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seednee-ruoj&show_icons=true&locale=en" alt="seednee-ruoj" /></p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
