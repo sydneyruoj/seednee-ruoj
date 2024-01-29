@@ -50,4 +50,5 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+![snake gif](https://github.com/seednee-ruoj/seednee-ruoj/blob/output/github-contribution-grid-snake.gif)
 
