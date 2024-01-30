@@ -51,5 +51,5 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 #### My contribution graph get eaten by the snake 🐍:
-![github-contribution-grid-snake](https://github.com/seednee-ruoj/seednee-ruoj/blob/output/github-contribution-grid-snake.svg)
-
+<!--END_SECTION:data-section-->
+![github contribution grid snake animation](https://raw.githubusercontent.com/seednee-ruoj/seednee-ruoj/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/seednee-ruoj/seednee-ruoj/output/github-contribution-grid-snake.svg#gh-light-mode-only)
