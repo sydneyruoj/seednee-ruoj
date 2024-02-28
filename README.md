@@ -39,6 +39,8 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
 <a href = 'https://www.github.com/seednee-ruoj'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
+
+
 <h2> My GitHub Stats <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/github.gif' width='32px' height=32px> </h2>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -50,16 +52,26 @@
 
  </div>
 
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=seednee-ruoj&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=seednee-ruoj&icon=7&color=5)](https://visitcount.itsvg.in)
+
 
  </div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
+<div align="center">
+<a href="https://github.com/seednee-ruoj">
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=seednee-ruoj&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=seednee-ruoj&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=seednee-ruoj&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=seednee-ruoj&theme=2077" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seednee-ruoj&theme=2077" height="180em" />
+</div>
+
 
 #### My contribution graph get eaten by the snake 🐍:
 <!--END_SECTION:data-section-->
