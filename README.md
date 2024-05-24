@@ -13,11 +13,14 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sydney+Ruoj+I.+Ponsica!;" />
 </h1>
 
+## 
 <h3 align="center">A Mechatronics Engineering Student</h3>
 </p>
+
 <div size='20px'> Hi! My name is Sydney Ruoj I. Ponsica. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
+## 
 <h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/47a1a7b035154ce002fffc42e803b6ca8acbc4f3/gifs/git-header.svg" />
