@@ -7,6 +7,7 @@
 <p><strong> Chillin'.
 <br><br> Vibing to : 🎧  </strong></p>
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=313bhcocek6z4mr7pzxgt22ao6fq&cover_image=true&theme=novatorem&show_offline=false&background_color=ffc0cb&interchange=false&bar_color=de3163&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile) 
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Sydney+Ruoj+I.+Ponsica!;" />
